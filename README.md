@@ -1,4 +1,4 @@
-# Simple Desk
+# Simple Desk Co
 
 Complete landing page used in marketing to provide value and enable future marketing by capturing client data.
 
