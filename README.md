@@ -2,7 +2,7 @@
 
 Complete landing page used in marketing to provide value and enable future marketing by capturing client data.
 
-**Link to project:** https://simple-desk.netlify.app/
+**Link to project:** https://simple-desk.netlify.app
 
 ![alt tag](https://billyrdz.com/wp-content/uploads/2022/05/simple-desk.gif)
 
@@ -31,4 +31,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Tesla Landing Page:** https://github.com/BillyRdz/Tesla-Scrolling-Landing-Page
 
-**JavaScript Social Splash:** https://github.com/BillyRdz/Javascript-Social-Splash
+**HEB Transactional Email: ** https://github.com/BillyRdz/heb-transactional-email
