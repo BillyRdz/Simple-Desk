@@ -2,7 +2,7 @@
 
 Complete landing page used in marketing to provide value and enable future marketing by capturing client data.
 
-**Link to project:** https://va-landingpage.netlify.app/
+**Link to project:** https://simple-desk.netlify.app/
 
 ![alt tag](https://billyrdz.com/wp-content/uploads/2022/05/simple-desk.gif)
 
