@@ -31,4 +31,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Tesla Landing Page:** https://github.com/BillyRdz/Tesla-Scrolling-Landing-Page
 
-**HEB Transactional Email: ** https://github.com/BillyRdz/heb-transactional-email
+**HEB Transactional Email:** https://github.com/BillyRdz/heb-transactional-email
